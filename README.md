@@ -26,11 +26,7 @@ This script is designed to convert labeled images for image segmentation. It tak
 - The script expects label files to be in a specific format and may not work with all types of label data.
 - Make sure to install the required Python packages (OpenCV and NumPy) before running the script.
 
-## Example
 
-```bash
-python image_segmentation_script.py
-```
 This will process the images and labels in their respective directories and save the segmented images in the "output" directory.
 
 For more information on the script and its usage, refer to the code comments in the script itself.
